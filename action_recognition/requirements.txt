@@ -1,0 +1,4 @@
+ultralytics==8.1.15
+opencv-python==4.8.1.78
+numpy==1.24.4
+pypylon==1.6.0
